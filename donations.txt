@@ -48,7 +48,7 @@
         "amount": 50000
     }, {
         "date": "1394/12/25 14:42",
-        "name": "مهدی قدمیاری",
+        "name": "مهدی قدم یاری",
         "img": "https://s.gravatar.com/avatar/0580f6105f11d6cfe68cc125373e2cf5?s=50&d=wavatar",
         "web": "http://ghadamyari.com",
         "amount": 10000
@@ -164,7 +164,7 @@
         "date": "1395/05/02 09:43",
         "name": "علی علی‌اکبری",
         "img": "",
-        "web": "",
+        "web": "https://uisite.ir/blog",
         "amount": 20000
     }, {
         "date": "1395/05/02 18:34",
